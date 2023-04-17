@@ -4,7 +4,7 @@ Building a React app with onchange functionality for an HTML form for BocaCode C
 ![screen shot] (./public/images.png)
 
 ## demo Link
-[See Link] (https://formpracticebl.web.app)
+[See Link] [(https://formpracticebl.web.app)] (https://github.com/Blaurince/post-practice.git)
 
 ## covered in class
 * onChange
